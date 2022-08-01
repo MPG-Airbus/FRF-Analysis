@@ -4,4 +4,9 @@ This software records the data coming from a monitor on an experimental Airbus t
 ### General Usage 
 ## Examples of an FRF Graph
 
+<br>
+<p align="center">
+	<img height="500" src=images/AirbusFRFImage.png/>
+</p>
+<br>
 ### Notes
