@@ -67,6 +67,3 @@ title('Monitor FFT')
 xlabel('Frequency (Hz)')
 ylabel('Amplitude')
 xlim([f1 f2])
-
-%This is an example text for testing on GitHub
-% Making second commit through GitHub to see if MATLAB is able to pull changes
