@@ -68,3 +68,5 @@ xlabel('Frequency (Hz)')
 ylabel('Amplitude')
 xlim([f1 f2])
 
+%This is an example text for testing on GitHub
+
